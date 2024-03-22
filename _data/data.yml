@@ -83,13 +83,10 @@ education:
 
 projects:
     title: Scientific Codes and Datasets
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
       - title: Computational Raman database
-        link: "#hook"
+        link: https://ramandb.oulu.fi/
         tagline: "A collection of calculated Raman spectra and other related properties of a large variety of semiconductors and insulators."
 
       - title: DevStudio
