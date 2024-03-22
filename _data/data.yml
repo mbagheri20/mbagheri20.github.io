@@ -18,7 +18,7 @@ sidebar:
     timezone: Finland/Helsinki
     #citizenship:
     #website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/mohammad-bagheri-4204b2223/
+    linkedin: mohammad-bagheri-4204b2223
     #xing: alandoe
     github: mbagheri20
     #telegram: # add your nickname without '@' sign
@@ -29,7 +29,6 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
     #pdf: http://www.africau.edu/images/default/sample.pdf
-    scholar: https://scholar.google.com/citations?user=G-8GVG8AAAAJ&hl=en
 
     languages:
       title: Languages
@@ -49,6 +48,12 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Density Functional Theory
+          link:
+               
+       - item: Screening
+          link:
+                 
         - item: High-throughput calculations
           link:
 
@@ -122,17 +127,38 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 98%
+      - name: VASP
+        level: 99%
 
+      - name: Quantum Espresso
+        level: 95%  
+        
       - name: MATLAB
         level: 90%
 
-      - name: HTML & CSS
-        level: 60%
+      - name: ASE and ASR
+        level: 90%
+        
+      - name: Phonopy
+        level: 90%
+        
+      - name: BandUP
+        level: 90%                                        
+        
+      - name: Pymatgen & Fireworks
+        level: 90%
+                
+      - name: Python
+        level: 98%
+        
+      - name: Bash
+        level: 98%   
+        
+      - name: Linux
+        level: 98%             
 
-      - name: VASP
-        level: 85%
+      - name: HTML & CSS
+        level: 60%      
 
       - name: Mongodb
         level: 60%
