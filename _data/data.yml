@@ -51,7 +51,7 @@ sidebar:
         - item: Density Functional Theory
           link:
                
-       - item: Screening
+        - item: Screening
           link:
                  
         - item: High-throughput calculations
@@ -145,7 +145,7 @@ skills:
       - name: BandUP
         level: 90%                                        
         
-      - name: Pymatgen & Fireworks
+      - name: Pymatgen and Fireworks
         level: 90%
                 
       - name: Python
