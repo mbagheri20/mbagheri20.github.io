@@ -89,44 +89,33 @@ projects:
         link: https://ramandb.oulu.fi/
         tagline: "A collection of calculated Raman spectra and other related properties of a large variety of semiconductors and insulators."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: FCDimen
+        link: https://github.com/FCDimen/FCDimen
+        tagline: "Python tools for analyzing the dimensionality of materials structure using force constants."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: CoRaPy
+        link: https://github.com/mbagheri20/corapy
+        tagline: "Computational Raman Python tools"
 
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Selected Publications
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: High-throughput computation of Raman spectra from first principles
+        link: https://www.nature.com/articles/s41597-023-01988-5
+        authors: M. Bagheri, H.-P. Komsa
+        conference: "Sci. Data 2023, 10, 80"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Identification of Material Dimensionality Based on Force Constant Analysis"
+        link: https://pubs.acs.org/doi/10.1021/acs.jpclett.3c01635
+        authors: M. Bagheri, E. Berger, H.-P. Komsa
+        conference: "J. Phys. Chem. Lett. 2023, 14, 35, 7840–7847"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Screening 0D Materials for 2D Nanoelectronics Applications"
+        link: https://onlinelibrary.wiley.com/doi/10.1002/aelm.202200393
+        authors: M. Bagheri, H.-P. Komsa
+        conference: "Adv. Electron. Mater. 2023, 9, 2200393"
 
 skills:
     title: Skills &amp; Proficiency
@@ -135,14 +124,11 @@ skills:
       - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
       - name: MATLAB
-        level: 98%
+        level: 90%
 
       - name: HTML & CSS
-        level: 95%
+        level: 60%
 
       - name: VASP
         level: 85%
