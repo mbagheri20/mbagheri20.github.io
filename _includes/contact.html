@@ -39,7 +39,7 @@
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
+      <a href="https://linkedin.com/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
 
@@ -96,6 +96,11 @@
       <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
     </li>
     {% endif %}
-
+    
+    {% if sidebar.scholar %}
+    <li class="scholar"><i class="fa-brands fa-google-scholar"></i>
+    <a href="https://scholar.google.com/citations?user=G-8GVG8AAAAJ&hl=en" target="_blank">Google Scholar</a>
+    </li>
+    {% endif %}
   </ul>
 </div><!--//contact-container-->
