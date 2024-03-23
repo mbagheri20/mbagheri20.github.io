@@ -53,7 +53,7 @@ sidebar:
         - item: Density Functional Theory
           link:
                
-        - item: Screening
+        - item: Screening materials databases
           link:
                  
         - item: High-throughput calculations
@@ -68,21 +68,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Im a doctoral researcher in computational materials physics. My current research focuses on materials modeling and Raman spectroscopy using first-principles calculations, as well as developing high-throughput computations workflows. I'm also interested in developing and using materials databases to discover novel materials for energy and quantum technology applications.
+      I am a doctoral researcher in computational materials physics. My current research focuses on materials modeling and Raman spectroscopy using first-principles calculations, as well as developing high-throughput computation workflows. I'm also interested in developing and using materials databases to discover novel materials for energy and technology applications.
 education:
     title: Education
     info:
       - degree: DSc (Tech.) 
         university: University of Oulu
         time: 2020 - 2024
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: .
       #- degree: BSc in Applied Mathematics
       #  university: Bristol University
        # time: 2007 - 2011
@@ -145,7 +138,7 @@ skills:
         level: 90%
         
       - name: BandUP
-        level: 90%                                        
+        level: 80%                                        
         
       - name: Pymatgen and Fireworks
         level: 90%
