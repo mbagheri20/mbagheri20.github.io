@@ -50,10 +50,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Density Functional Theory
-          link:
-               
-        - item: Screening materials databases
+        - item: Materials Informatics
           link:
                  
         - item: High-throughput calculations
