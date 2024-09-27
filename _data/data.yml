@@ -72,7 +72,7 @@ education:
       - degree: Doctor of Science 
         university: University of Oulu, Finland
         time: 2020 - 2024
-        details: Thesis: High-throughput computation of Raman spectra by atomistic first principles
+        details: "High-throughput computation of Raman spectra by atomistic first principles"
 
 
 projects:
