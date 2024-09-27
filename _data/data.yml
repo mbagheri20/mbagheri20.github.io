@@ -69,14 +69,10 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: DSc (Tech.) 
-        university: University of Oulu
+      - degree: Doctor of Science 
+        university: University of Oulu, Finland
         time: 2020 - 2024
-        details: .
-      - degree: MSc
-        university: Qazvin Azad University
-        time: 2014 - 2017
-        details: 
+        details: Thesis: High-throughput computation of Raman spectra by atomistic first principles
 
 
 projects:
