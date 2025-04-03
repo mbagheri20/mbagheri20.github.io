@@ -117,44 +117,11 @@ publications:
         conference: "J. Raman Spectrosc. 2024, 55 (10), 1113."
         
 skills:
-    title: Skills &amp; Proficiency
+    title: Research Interests
 
-    toolset:
-      - name: VASP
-        level: 99%
+      info:
+        - item: Materials Informatics
 
-      - name: Quantum Espresso
-        level: 95%  
-        
-      - name: MATLAB
-        level: 90%
-
-      - name: ASE and ASR
-        level: 90%
-        
-      - name: Phonopy
-        level: 90%
-        
-      - name: BandUP
-        level: 80%                                        
-        
-      - name: Pymatgen and Fireworks
-        level: 90%
-                
-      - name: Python
-        level: 98%
-        
-      - name: Bash
-        level: 98%   
-        
-      - name: Linux
-        level: 98%             
-
-      - name: HTML & CSS
-        level: 60%      
-
-      - name: Mongodb
-        level: 60%
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
