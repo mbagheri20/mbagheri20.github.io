@@ -1,0 +1,38 @@
+{% assign interests = site.data.data.interests %}
+{% if interests %}
+<section class="section interests-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ interests.title }}
+  </h2>
+
+  {% if interests.intro %}
+  <div class="intro">
+      <p>{{ interests.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for interest in interests.assignments %}
+    <div class="item">
+
+      <span class="interest-title">
+        {% if project.link %}
+        <a href="{{ interest.link }}" target="_blank">{{ interest.title }}</a>
+        {% else %}
+        {{ interest.title }}
+        {% endif %}
+      </span>
+
+      {% if interest.tagline %}
+      - <span class="interest-tagline">{{ interest.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
