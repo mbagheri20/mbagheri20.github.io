@@ -116,11 +116,11 @@ publications:
         authors: M. Bagheri, H.-P. Komsa
         conference: "J. Raman Spectrosc. 2024, 55 (10), 1113."
         
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+#    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: VASP
+#    toolset:
+#      - name: VASP
 #        level: 99%
 
 
