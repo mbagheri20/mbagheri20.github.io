@@ -117,10 +117,11 @@ publications:
         conference: "J. Raman Spectrosc. 2024, 55 (10), 1113."
         
 skills:
-    title: Research Interests
+    title: Skills &amp; Proficiency
 
-      info:
-        - item: Materials Informatics
+    toolset:
+      - name: VASP
+        level: 99%
 
 
 footer: >
