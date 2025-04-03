@@ -122,8 +122,19 @@ interests:
     assignments:
       - title: Materials Informatics
         link: 
-        tagline: ""
+        tagline:
 
+      - title: High-throughput calculations
+        link: 
+        tagline:
+        
+      - title: Computational Raman spectroscopy
+        link: 
+        tagline:
+
+      - title: Low-dimensional materials
+        link: 
+        tagline:
         
 #skills:
 #    title: Skills &amp; Proficiency
