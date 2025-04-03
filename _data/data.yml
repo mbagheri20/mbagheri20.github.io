@@ -47,20 +47,20 @@ sidebar:
         - idiom: Finnish
           level: Beginner          
 
-    interests:
-      title: Interests
-      info:
-        - item: Materials Informatics
-          link:
+#    interests:
+#      title: Interests
+#      info:
+#        - item: Materials Informatics
+#          link:
                  
-        - item: High-throughput calculations
-          link:
+#        - item: High-throughput calculations
+#          link:
 
-        - item: Computational Raman spectroscopy
-          link:
+#        - item: Computational Raman spectroscopy
+#          link:
 
-        - item: Low-dimensional materials
-          link:
+#        - item: Low-dimensional materials
+#          link:
 
 career-profile:
     title: Career Profile
