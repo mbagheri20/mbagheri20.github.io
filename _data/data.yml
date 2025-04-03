@@ -121,7 +121,7 @@ skills:
 
     toolset:
       - name: VASP
-        level: 99%
+#        level: 99%
 
 
 footer: >
